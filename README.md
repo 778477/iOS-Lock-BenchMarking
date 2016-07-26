@@ -159,7 +159,7 @@ int main(int argc, char * argv[]) {
  
  
  
- 
+ ![](https://raw.githubusercontent.com/778477/iOS-Lock-BenchMarking/master/benchmark.png)
 
 
 
